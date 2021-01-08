@@ -1,8 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
 import * as d3 from "d3";
 import miserables from './miserables.json';
-import React, { useState, useEffect } from 'react';
+import React, { useEffect } from 'react';
 
 function Graph() {
 
