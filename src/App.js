@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header >
         <p>
-          D3JS test dsqf fgsd
+          D3JS in REACT
         </p>
       </header>
       <Graph></Graph>
